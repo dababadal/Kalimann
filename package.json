@@ -1,0 +1,17 @@
+
+{
+  "name": "bookbinding",
+  "version": "1.0.0",
+  "description": "our very first electron application",
+  "main": "main.js",
+  "dependencies": {
+    "electron-packager": "^14.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron .", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmed Esmili",
+  "license": "ISC"
+}
