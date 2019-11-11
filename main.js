@@ -9,7 +9,8 @@ function createWindow () {
     }
   })
  
-  win.loadFile('index.html')
+  win.loadFile('index.html');
+  win.setMenu(null);
 }
  
 app.on('ready', createWindow)
