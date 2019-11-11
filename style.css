@@ -1,5 +1,5 @@
 body {
-    background-color: #434EFF;
+    background-color: #797C80;
     -ms-overflow-style: scrollbar;
     -webkit-app-region:drag;
 }
@@ -12,8 +12,7 @@ body {
     z-index: 1; 
     top: 0; 
     left: 0;
-    background-color: #111440; 
+    background-color: #4E5052; 
     overflow-x: hidden; 
     padding-top: 20px;
   }
-  
