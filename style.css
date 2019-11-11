@@ -1,4 +1,8 @@
-body {background-color: #434EFF;}
+body {
+    background-color: #434EFF;
+    -ms-overflow-style: scrollbar;
+    -webkit-app-region:drag;
+}
 
 /* The sidebar menu */
 .sidenav {
