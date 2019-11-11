@@ -1,8 +1,8 @@
 const { app, BrowserWindow } = require('electron')
  
 function createWindow () {
-  let win = new BrowserWindow({ width: 800, height: 600 })
-  win.setMenu(null);
+  let win = new BrowserWindow({ width: 800, height: 600, titleBarStyle: 'hidden' })
+  win.show()
   win.loadFile('index.html')
 }
  
