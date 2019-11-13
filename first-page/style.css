@@ -8,22 +8,15 @@ body {
     background-color: #4E5052;
 }
 
-/* The sidebar menu */
+.openPara {
+    
+}
+
 .main {
-    height: 100px;
-    width: 100px;
-    top: 50%;    
-    right: 50%;
-    padding-top: 200px;
-    /*
     height: 100%;
-    width: 160px; 
-    position: fixed; 
-    z-index: 1;
+    width: 100%;
+    position: fixed;
+    padding-top: 30%;
     top: 0; 
-    right: 0;
-    background-color: #4E5052; 
-    overflow-x: hidden; 
-    padding-top: 20px;
-    */
+    left: 0;
   }
