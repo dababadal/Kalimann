@@ -1,0 +1,18 @@
+body {
+    background-color: #797C80;
+    -ms-overflow-style: scrollbar;
+    -webkit-app-region:drag;
+}
+
+/* The sidebar menu */
+.sidenav {
+    height: 100%; 
+    width: 160px; 
+    position: fixed; 
+    z-index: 1; 
+    top: 0; 
+    right: 0;
+    background-color: #4E5052; 
+    overflow-x: hidden; 
+    padding-top: 20px;
+  }
