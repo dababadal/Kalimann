@@ -5,17 +5,18 @@ body {
 }
 
 .openButton {
-    color: #4E5052;
+    background-color: #4E5052;
 }
 
 /* The sidebar menu */
 .main {
-    height: 50%;
-    width: 100%;
+    height: 100px;
+    width: 100px;
     top: 50%;    
     right: 50%;
+    padding-top: 200px;
     /*
-    height: 100%; 
+    height: 100%;
     width: 160px; 
     position: fixed; 
     z-index: 1;
